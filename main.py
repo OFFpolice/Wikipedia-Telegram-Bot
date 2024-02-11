@@ -3,7 +3,6 @@
 # python-telegram-bot==13.0
 import re
 import os
-import server
 import random
 import wikipedia
 
@@ -123,7 +122,6 @@ def main():
     updater.start_polling()
     updater.idle()
 
-server.start()
 
 if __name__ == '__main__':
     main()
