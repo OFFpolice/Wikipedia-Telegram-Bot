@@ -20,5 +20,12 @@
 ## Фреймворк 🙌
 - Работает на [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 
+## 📫 How to contact me
+- [**Telegram Channel**](https://t.me/OFFpoliceChannel)
+- [**Telegram Contact**](https://t.me/OFFpolice)
+- [**X (Twitter)**](https://twitter.com/OFFpolice2077)
+- [**Replit**](https://replit.com/@offpolice2077)
+- [**Email**](offpolicedev@gmail.com)
+
 ## Лицензия 📄
 Этот проект лицензирован в соответствии с лицензией Apache-2.0 - см. файл [LICENSE](LICENSE) для получения дополнительной информации.
