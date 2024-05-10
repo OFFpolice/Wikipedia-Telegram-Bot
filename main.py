@@ -1,6 +1,4 @@
-# Coding: utf8  |  main.py
 # Made by: @OFFpolice
-# python-telegram-bot==13.0
 import re
 import os
 import random
