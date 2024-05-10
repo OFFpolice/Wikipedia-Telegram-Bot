@@ -1,6 +1,3 @@
-## Wikipedia Bot
-Unlock the secrets of knowledge with the Wikipedia bot for Telegram! Your source of instant information. From quick facts to in-depth articles, this bot provides information right on your mobile device.
-
 ## Framework:
 - Powered by [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 
