@@ -1,6 +1,3 @@
-## Framework:
-- Powered by [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
-
 ## How to contact me:
 - [**Telegram Channel**](https://t.me/OFFpoliceChannel)
 - [**Telegram Contact**](https://t.me/OFFpolice)
